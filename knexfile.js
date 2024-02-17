@@ -1,4 +1,5 @@
 require("dotenv").config();
+
 const {
   NODE_ENV = "development",
   DEVELOPMENT_DATABASE_URL,
